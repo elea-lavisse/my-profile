@@ -55,17 +55,20 @@ a:hover {
 	margin: 40px auto;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 768px) {
 	.container {
-		width: 600px;	
+		width: 90%;	
+		margin: 20px auto;
 	}
 }
 
-@media (max-width: 500px) {
+@media (max-width: 576px) {
 	.container {
-		width: 400px;	
+		width: 90%;
+		margin: 20px auto;	
 	}
 }
+
 
 .card-white {
 	background-color: #FEFBE9;
